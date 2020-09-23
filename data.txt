@@ -1,0 +1,4 @@
+Name: Chico
+Age: 30
+Favorite Color: Red
+
